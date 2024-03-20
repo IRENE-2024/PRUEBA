@@ -7,3 +7,4 @@ HOLA A TODOS
 6. git commit -m “Creado el proyecto inicial” 
 7. git remote add origin URLrepositorio.git
 8. git push origin master
+Estos son los pasos para sincronizar una carpeta en git hub
