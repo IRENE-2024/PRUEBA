@@ -1,1 +1,9 @@
 HOLA A TODOS
+1.git config --global user.mail "email"
+2.git config --global user.name "usuario github"
+3.ingresar a carpeta donde se encuentra reositorio
+4. git init
+5. git add .
+6. git commit -m “Creado el proyecto inicial” 
+7. git remote add origin URLrepositorio.git
+8. git push origin master
